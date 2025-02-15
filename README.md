@@ -1,32 +1,6 @@
 ## Olá! Eu sou a Júlia Rafaela
 
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Julia-Rafaela&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Rafaela&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 ### 🤖 Linguagens 
 
 <img 
@@ -61,3 +35,31 @@
     style="padding-right: 10px;" 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXkY-p0TK4Yoe7bYv-T7PffxOvi2iQOnDa4ejeD9eGW8zCzi500UOUr-nPm7xOk4jXZM&usqp=CAU" 
 />
+<br/>
+<br/>
+---
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Julia-Rafaela&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+  />
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Rafaela&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
+
+<br/>
+<br/>
